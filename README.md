@@ -2,3 +2,7 @@
 Belajar GitHub di Dicoding sangat menyenangkan!<br>
 Mendokumentasikan dengan GitHub menjadi lebih mudah.<br>
 Manajemen kode menjadi lebih mudah berkat GitHub.
+
+## Ayo tingkatkan contribution!  
+Konsisten dalam berkontribusi dengan sering melakukan commit pada repo
+
